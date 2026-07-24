@@ -1,18 +1,18 @@
 {
     
-   "our_ads1_activation":"true",
+   "our_ads1_activation":"false",
     "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/EscapeBarryWater/refs/heads/main/spongeAds.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.GamesEmpire.ScarySponge.GrannyEscape",
 
-    "our_ads2_activation":"true",
+    "our_ads2_activation":"false",
     "our_ads2_image_url":"https://raw.githubusercontent.com/teamidjuo/EscapeBarryWater/refs/heads/main/spongeAds.png",
     "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.GamesEmpire.ScarySponge.GrannyEscape",
 
-    "our_ads3_activation":"true",
+    "our_ads3_activation":"false",
     "our_ads3_image_url":"https://raw.githubusercontent.com/teamidjuo/EscapeBarryWater/refs/heads/main/spongeAds.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.GamesEmpire.ScarySponge.GrannyEscape",
 
-    "our_ads_inter_activation":"true",
+    "our_ads_inter_activation":"false",
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/rat%20dannce%20native%20AD.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
 
