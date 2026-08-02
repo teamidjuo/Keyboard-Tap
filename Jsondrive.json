@@ -16,15 +16,9 @@
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/medidjuo/ADS_icons/refs/heads/main/rat%20dannce%20native%20AD.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com.Rat.Dance.ParkourChallenge",
 
-    "unity_app_id": "1b8525f1d",
-  "unity_banner": "m57cam9r9h0ircgo",
-  "unity_interstitial": "jhqbmbjxqwwuduuo",
-  "unity_rewarded_video": "az5oijw1d9998v1u",
-
-
   "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "0000000000000000",
-  "appLovin_interstitial": "2af29d35c23e0a0e",
+  "appLovin_interstitial": "806c66dca3063607",
   "appLovin_rewarded_video": "0000000000000000"
 
 }
